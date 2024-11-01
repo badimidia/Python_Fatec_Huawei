@@ -4,5 +4,6 @@ if B == 0:
     print('Não é possível calcular a divisão')
 else:
     R = A / B
-    print(R+10)
+    print(R)
     
+
