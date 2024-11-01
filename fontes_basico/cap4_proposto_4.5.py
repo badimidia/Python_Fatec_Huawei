@@ -4,4 +4,4 @@ if idade < 16:
 elif idade >= 18 and idade < 65:
     print('Eleitor obrigatório')
 else:
-    print('Eleitor facultativo')
+    print('Eleitor facultativo1')
